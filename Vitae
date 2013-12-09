@@ -21,7 +21,31 @@
 <p><blockquote><b><font color="darkblue">Programming Language:</font></b></blockquote></p>
 <blockquote><ol>
 <li><a href="http://www.oracle.com/us/technologies/java/overview/index.html"><u>JAVA</u></a></li>
+<li><a href="http://www.cprogramming.com/"><u>C and C++</u></a></li>
+<li><a href="http://www.tutorialspoint.com/assembly_programming/index.htm"><u>Assembly</u></a></li>
 </ol></blockquote>
+
+<p><blockquote><b><font color="darkblue">Skills:</font></b></blockquote></p>
+<blockquote><ul>
+<li>Computer Literate</li>
+<li>Able to make program using C, C++ and JAVA language</li>
+</ul></blockquote>
+
+<table align="center" border="1">
+<tr>
+  <th><font color="darkblue">Schools Attended</font></th>
+</tr>
+<tr>
+  <td>
+  <p><blockquote><b><font color="darkblue">Elementary - </font></b>Jesus Cares Christian School</blockquote></p>
+  <p><blockquote><b><font color="darkblue">High School - </font></b>Valenzuela Science High School</blockquote></p>
+  <p><blockquote><b><font color="darkblue">College - </font></b>University of Santo Tomas</blockquote></p>
+  <p><blockquote><blockquote><b><font color="darkblue">Course - </font></b>Computer Science</blockquote></blockquote></p>
+  </td>
+</tr>
+</table>
+
+
 
 </html>
 
