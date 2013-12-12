@@ -37,7 +37,7 @@
 <li>Sleeping</li>
 </ul></blockquote>
 
-<table align="left" border="1">
+<p><table align="left" border="1">
 <tr>
   <th><font color="darkblue">Schools Attended</font></th>
 </tr>
@@ -49,7 +49,7 @@
   <p><blockquote><blockquote><b><font color="darkblue">Course - </font></b>Computer Science</blockquote></blockquote></p>
   </td>
 </tr>
-</table>
+</table></p>
 
 <br></br>
 <br></br>
