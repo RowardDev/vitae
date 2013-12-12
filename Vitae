@@ -2,7 +2,7 @@
 
 <body background="img1.jpg" >
 <p><b><u><i><font size="6">Curriculum Vitae</font></i></u></b>
-<img href = "2012049936p.JPG"  align = "right"><p>
+<img src = "2012049936p.JPG"  align = "right"><p>
 <br></br>
 <br></br>
 <p><blockquote><b><font color="darkblue">Name:</font></b> Roward Armand R. Marquez</blockquote></p>
@@ -54,7 +54,7 @@
 <br></br>
 <br></br>
 
-<center><img  = "Snapshot_20131209.jpg" width ="130px" length="72px"></center>
+<center><img src = "Snapshot_20131209.jpg" width ="130px" length="72px"></center>
 <center>_________________________</center>
 <center>ROWARD ARMAND MARQUEZ</center>
 
